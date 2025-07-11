@@ -16,7 +16,7 @@ dependencies:
 
   hmssdk_flutter: 1.10.6
   intl: ^0.19.0
-  permission_handler: ^11.0.0
+  permission_handler: ^12.0.0+1
   provider: ^6.0.5
   google_fonts: 6.1.0
   draggable_widget: ^2.0.0
